@@ -1,0 +1,48 @@
+(dp0
+I0
+(lp1
+sI1
+(lp2
+sI2
+(lp3
+VWatching GEO for news is like asking Sachin Tendulker for hockey tips.
+p4
+aV1. Don Bradman (Average of 99.94)\u000a2. Sachin Tendulker (100 Centuries)\u000a3. Mark Boucher (999 Dismissals)\u000a4. Brian... http://t.co/GWdfygls6b
+p5
+aV1. Don Bradman (Average of 99.94)\u000a2. Sachin Tendulker (100 Centuries)\u000a3. Mark Boucher (999 Dismissals)\u000a4. Brian... http://t.co/fXzKYvG2oo
+p6
+asI3
+(lp7
+VRT @RakhKayChamat: AAMIR KHAN WOULD PLAY THE ROLE OF SACHIN TENDULKER IN HIS NEXT MOVIE. \u000aWaise Height Kay hisab se role Aamir se better ko\u2026
+p8
+aVAAMIR KHAN WOULD PLAY THE ROLE OF SACHIN TENDULKER IN HIS NEXT MOVIE. \u000aWaise Height Kay hisab se role Aamir se better koi nae kar sakta.
+p9
+aVRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p10
+asI4
+(lp11
+VRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p12
+aVRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p13
+aVRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p14
+aVRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p15
+aVRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p16
+aVRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p17
+aVRT @sangeeta00: @drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p18
+aV@drashti10  my sachin tendulker http://t.co/PmndXtwVrJ
+p19
+aVOnline Match[[536104333130079]]\u000aSachin Sir vs Rahul Sir\u000aDravid Needs 2000 Comments To Win Before\u000aTendulker... http://t.co/cw5qLnBJSs
+p20
+aVOnline Match\u000aSachin Sir  vs Rahul Sir\u000a\u000aDravid  Needs 2000 Comments To Win Before\u000aTendulker Gets 3000 Likes\u000a\u000aLike... http://t.co/jQYvBhTx0U
+p21
+asI5
+(lp22
+VMy favourite tourney going to start this month.\u000aLaunched by my favourite " god of cricket SACHIN TENDULKER " http://t.co/8B3McjLeWt
+p23
+as.
